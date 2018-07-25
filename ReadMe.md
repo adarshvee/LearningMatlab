@@ -1,0 +1,2 @@
+This repo consists of my practice files as I followed an introductory course on Matlab from Lynda.com.
+I wanted to quickly learn the basics of Matlab as I need to understand some programs written in Matlab as a part of my Graduate project.
